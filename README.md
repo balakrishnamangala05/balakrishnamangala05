@@ -1,4 +1,4 @@
-# Hi there, I'm Balakrishna Mangala 👋
+# Hi there, I'm krish 👋
 
 🎓 A passionate Master's graduate in Computer Science and an enthusiastic Data Engineer with a drive to craft seamless, scalable solutions. My expertise lies in **Data Engineering**, **Cloud Architecture**, and **Full-Stack Development**, and I'm always looking for innovative ways to merge technology and creativity.
 
