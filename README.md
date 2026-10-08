@@ -1,9 +1,13 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=220&section=header&text=Bala%20Krishna%20M&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=AI%20Engineer%20%7C%20Forward%20Deployed%20Engineer%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=220&section=header&text=Balakrishna%20Mangala&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=AI%20Engineer%20%7C%20Forward%20Deployed%20Engineer%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="banner" />
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Engineer+%40+Securiti+AI;Building+production+LLM+applications;RAG+%7C+FastAPI+%7C+React+%7C+Cloud;Open+to+AI+Engineer+%26+FDE+roles" alt="typing" />
+</p>
+
+<p align="center">
+  <b>AI Engineer at Securiti AI | LLM apps, RAG, FastAPI, React | AWS, Azure, GCP | MS CS, UMBC</b>
 </p>
 
 <p align="center">
@@ -24,7 +28,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="AI neural network animation" />
 
 ```yaml
-name:      Bala Krishna M
+name:      Balakrishna Mangala
 role:      AI Engineer @ Securiti AI
 focus:     LLM applications, RAG pipelines, Python backends
 building:  Multi-provider LLM services (OpenAI + Gemini) on FastAPI
